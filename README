@@ -2,7 +2,7 @@
 
 This code is originally written (and maintained) over at http://code.google.com/p/zen-coding.
 
-I'm forking it here for easier access, and to maintain my changes to the tabTrigger.
+I'm forking it here for easier access and to maintain my changes.
 
 The original zen-css tab triggers required typing colons between keys and values. I found this requirement unnecessary and annoying.
 
