@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>border-top:${TM_CSS_SPACE}$1;$0</string>
+	<string>border-top:${TM_CSS_SPACE}${1:1}px${TM_CSS_SPACE}${2:solid}${TM_CSS_SPACE}#{3:ddd};$0</string>
 	<key>name</key>
 	<string>border-top</string>
 	<key>scope</key>
