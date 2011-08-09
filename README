@@ -12,7 +12,7 @@ This revised bundle removes the requirement, so instead of typing 'ov:a' you can
 
 In the terminal:
 
-$ cd ~/Library/Application Support/TextMate/
+$ cd ~/Library/Application\ Support/TextMate/Bundles/
 $ git clone git@github.com:blakehilscher/zen-css.git Zen-CSS.tmbundle
 
 Blake
